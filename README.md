@@ -1,0 +1,1 @@
+This color picker game uses CSS for simple styling ns Javascript for dynamic gameplay.
